@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Colour the Houses",
+  "short_name": "Colour Houses",
+  "description": "Colour two house drawings with touch-friendly tools.",
+  "lang": "en-AU",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f5ef",
+  "theme_color": "#244f40",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
